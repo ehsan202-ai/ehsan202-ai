@@ -1,10 +1,15 @@
-# Hi there, I'm Ehsan 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&duration=3000&color=F7971E&center=true&vCenter=true&width=450&lines=Ehsan+%F0%9F%91%8B;Automation+Testing+Engineer;Welcome+to+my+profile!" alt="Typing SVG" />
+</h1>
 
-![Banner](https://i.ibb.co/9r5VRFS/developer-banner.gif)
+<p align="center">
+  <img src="https://i.ibb.co/9r5VRFS/developer-banner.gif" alt="Developer Banner" width="100%" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
+
 - 🎓 **Background**: Electronics & Communication Engineer  
 - 🔍 **Software Testing**: Manual & Automation  
 - 🛠️ **Daily Tools**: Java, Selenium, Git, Postman  
@@ -27,6 +32,7 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ehsan202-ai&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsan202-ai&layout=compact&theme=radical" alt="Top Langs" height="160"/>
@@ -35,6 +41,7 @@
 ---
 
 ## 🌐 Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/ehsan202-ai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -42,12 +49,4 @@
   <a href="https://github.com/ehsan202-ai" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23FF7139.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
 </p>
-
----
-
-## 🐍 Contribution Graph
-![snake gif](https://github.com/ehsan202-ai/ehsan202-ai/blob/output/github-contribution-grid-snake.svg)
