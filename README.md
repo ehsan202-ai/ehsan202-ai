@@ -1,6 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&duration=3000&color=F7971E&center=true&vCenter=true&width=450&lines=Ehsan+%F0%9F%91%8B;Automation+Testing+Engineer;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Ehsan+Manual+%26+Automation+Testing+Engineer" alt="Typing SVG" />
 </h1>
+
+<h2 align="center"><b>Ehsan</b></h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Cartoon Person with Laptop" width="200"/>
+</p>
 
 <p align="center">
   <img src="https://i.ibb.co/9r5VRFS/developer-banner.gif" alt="Developer Banner" width="100%" />
@@ -10,9 +16,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Background**: Electronics & Communication Engineer  
-- 🔍 **Software Testing**: Manual & Automation  
-- 🛠️ **Daily Tools**: Java, Selenium, Git, Postman  
+- 🎓 **Background:** Electronics & Communication Engineer  
+- 🔍 **Software Testing:** Manual & Automation  
+- 🛠️ **Daily Tools:** Java, Selenium, Git, Postman  
 - 🚀 Building projects to practice Automation Testing & Java OOP  
 - 💬 Ask me about **Test Cases, Black Box Testing, Automation Frameworks**  
 - 🌱 Currently learning: **DevOps & Test Automation Frameworks**  
